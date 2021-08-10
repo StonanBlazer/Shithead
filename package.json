@@ -1,0 +1,27 @@
+{
+  "name": "shithead",
+  "version": "1.0.0",
+  "description": "card game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StonanBlazer/Shithead.git"
+  },
+  "keywords": [
+    "card",
+    "game",
+    "shithead"
+  ],
+  "author": "Ronan Fraser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StonanBlazer/Shithead/issues"
+  },
+  "homepage": "https://github.com/StonanBlazer/Shithead#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
