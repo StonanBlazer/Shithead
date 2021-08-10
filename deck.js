@@ -1,9 +1,14 @@
 const SUITS = ["♥", "♦", "♠", "♣"]
 const VALUES = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
 
-export default class Deck {
+module.exports = class Deck {
   constructor(cards = freshDeck()) {
     this.cards = cards
+
+    let jokers = addJokers(2)
+    for(let i=0; i<jokers.length; i++) {
+      this.cards.push(jokers[i])
+    }
   }
 
   get numberofCards() {
@@ -35,5 +40,12 @@ function freshDeck() {
   })
 }
 
+function addJokers(no) {
+  let jokers = []
+  for(let i=0; i<no; i++) {
+    jokers.push(new Card('NA', 'Joker'))
+  }
+  return jokers
+}
 
 //this is a test
