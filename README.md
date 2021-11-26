@@ -17,7 +17,7 @@ you should always have 3 cards in your hand unless the pic up pile has gone.
 
 to start the game if anyone has a 4 in their hand they begin, if no one has a 4 then left of the dealer begins and can play any card.
 
-going round clockwise to begin you each place a card that has to be higher in value to the card placed before. if you do not have a card higher then the one placed then you can use a magic card 2, 3, 7, 8, 9 (if theres more than 2 players) 10 or joker. if you still cant play a card you have to pick up the pile that has just been played.
+going round clockwise to begin you each place a card that has to be the same or higher in value to the card placed before. if you do not have a card the same or higher then the one placed then you can use a magic card 2, 3, 7, 8, 9 (if theres more than 2 players) 10 or joker. if you still cant play a card you have to pick up the pile that has just been played.
 
 pick up card(s) if you have less than 3 in your hand and cards still on the pick up pile.
 
